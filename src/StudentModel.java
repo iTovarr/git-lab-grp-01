@@ -1,4 +1,5 @@
 // Clase modelo para representar a un estudiante - Sprint 1
+// Modificación - Sprint 2
 public class StudentModel {
     private int id;
     private String nombre;
