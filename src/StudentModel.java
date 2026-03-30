@@ -1,3 +1,4 @@
+// Clase modelo para representar a un estudiante - Sprint 1
 public class StudentModel {
     private int id;
     private String nombre;
